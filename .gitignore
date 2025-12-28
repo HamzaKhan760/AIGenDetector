@@ -1,1 +1,8 @@
 .venv/
+data/test/real/*
+data/test/fake/*
+results/*
+
+!data/test/real/.gitkeep
+!data/test/fake/.gitkeep
+!results/.gitkeep
