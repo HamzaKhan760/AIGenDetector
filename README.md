@@ -17,7 +17,7 @@ A deepfake detection system using OpenAI's CLIP (Contrastive Language-Image Pre-
 
 ```bash
 git clone https://github.com/HamzaKhan760/AIGenDetector.git
-cd DeepfakeDetector_CLIP
+cd AIGenDetector
 ```
 
 2. Create a virtual environment (recommended):
